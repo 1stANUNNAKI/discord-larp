@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/homepage-preview.png" alt="discord-larp — Home Page Preview" width="100%" />
+</p>
+
 # 🛡️ Discord LARP Plugin
 
 An advanced, stable, and obfuscated **BetterDiscord** plugin designed to customize your client-side profile with custom usernames, display names, and badges. **100% Free to use!**
